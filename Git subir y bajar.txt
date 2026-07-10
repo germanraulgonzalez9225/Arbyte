@@ -1,0 +1,20 @@
+Para subir 
+
+git add .
+git commit -m "Descripción de lo que cambiaste o agregaste"
+git push origin main
+
+Para Bajar:
+
+git pull origin main
+
+git clone URL_DE_TU_REPOSITORIO
+
+Caso extremo de bajar:
+
+git init
+
+git remote add origin URL_DE_TU_REPOSITORIO
+
+git fetch origin
+git reset --hard origin/main
