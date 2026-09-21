@@ -164,6 +164,38 @@ portal de soporte.
 >
 > Cualquier duda quedamos a disposición.
 
+**Si el cliente insiste pidiendo una excepción** (por ejemplo, alega que
+no recibió aviso antes de la renovación, o una situación económica
+puntual): **no prometer ni otorgar la excepción desde este canal**, es
+una decisión de una persona del equipo, caso por caso. Responder
+reconociendo el reclamo, aclarar que la política general no cambia desde
+acá, avisar que se traslada el caso puntual al equipo por el mismo
+ticket, y aprovechar para recomendar cancelar ya la suscripción si
+todavía no lo hizo.
+
+> Gracias por explicarnos la situación y por la sinceridad.
+>
+> Entendemos el reclamo: no tenemos forma de garantizarte una excepción
+> desde este canal, porque nuestra política general no contempla
+> reembolsos de renovaciones ya cobradas. Pero tu comentario sobre no
+> haber recibido un aviso antes de la fecha límite es válido y lo vamos a
+> trasladar al equipo junto con tu ticket, para que lo evalúen
+> puntualmente, considerando que avisaste apenas te diste cuenta.
+>
+> Mientras tanto, para que no se repita el inconveniente, te recomiendo
+> cancelar la suscripción ya desde "Mi cuenta → Suscripción" si todavía
+> no lo hiciste. Vas a mantener el acceso hasta el final del período ya
+> pagado, sin nuevos cobros.
+>
+> En cuanto el equipo revise tu caso puntual, te va a responder por el
+> mismo ticket. Gracias por la paciencia.
+
+**Feedback de producto para trasladar al equipo (no es parte de la
+respuesta al cliente)**: más de un cliente reclamó no haber recibido un
+aviso/recordatorio por email antes de la fecha de renovación automática.
+Vale la pena evaluar agregar un email de recordatorio unos días antes de
+cada renovación, para reducir este tipo de reclamos.
+
 ---
 
 ## 3. Recorrido / "curso completo" de PLC
@@ -243,3 +275,9 @@ Membresía).
   paquete de compra única aparte), con la lista de planes y el link de
   inscripción. Reemplaza el registro anterior en "Consultas pendientes"
   sobre este mismo caso.
+- 2026-09-21: se agrega a la sección 2 la guía para cuando el cliente
+  pide una excepción a la política de reembolsos (por ejemplo, por no
+  haber recibido aviso antes de la renovación): no se promete ni otorga
+  desde este canal, se traslada como caso puntual al equipo. Se deja
+  también una nota de feedback de producto: evaluar un email de
+  recordatorio antes de cada renovación automática.
