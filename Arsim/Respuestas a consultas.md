@@ -99,7 +99,32 @@ consulta.
 
 ---
 
-## 4. Consulta no cubierta por esta lista
+## 4. Más información / lista de espera
+
+**Cuándo usarla**: pedidos generales de información sobre Arsim Studio
+("¿me podría enviar más información?", "¿qué es Arsim Studio?", "quiero
+saber más"), sin una pregunta puntual de precio, funciones, etc.
+
+**Datos clave**
+- Hay **lista de espera disponible** para anotarse.
+- El precio **todavía no está definido**.
+- El ingreso va a ser por **membresía**.
+- Más información en https://studio.arsim.app
+
+**Respuesta sugerida**
+
+> Buen día, gracias por escribirnos.
+>
+> Arsim Studio todavía no está abierto al público, pero hay una lista de
+> espera disponible para anotarse y recibir novedades. El ingreso va a ser
+> por membresía; el precio todavía no está definido.
+>
+> Para más información podés entrar a https://studio.arsim.app. Cualquier
+> otra consulta, quedamos a disposición.
+
+---
+
+## 5. Consulta no cubierta por esta lista
 
 **Cuándo usarla**: cualquier pregunta que no encaje en las anteriores
 (funciones, compatibilidad, requisitos, soporte, etc.).
@@ -135,3 +160,6 @@ definir una respuesta oficial.
 - 2026-09-21: se agrega la sección "Baja de membresía de cursos": se puede
   cancelar sin perder el progreso, el acceso se reabre al retomar el pago,
   y para gestionar la baja o ver el estado se pide el email del usuario.
+- 2026-09-21: se agrega la sección "Más información / lista de espera":
+  hay lista de espera disponible, el precio todavía no está definido y el
+  ingreso va a ser por membresía. Se renumera "Consulta no cubierta" a 5.
