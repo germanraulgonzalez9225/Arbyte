@@ -88,38 +88,81 @@ hace falta repetirlo siempre)**
 renovación automática que no quería, en particular si ya abrió un ticket
 de soporte y escribe por este canal para que se agilice.
 
-**Datos clave**
-- La política oficial de devolución está publicada en
-  https://ingelearn.com/politica-devolucion/. Ese link es la fuente de
-  verdad sobre plazos, condiciones y excepciones: **no inventar acá
-  números de días ni porcentajes** que no estén confirmados con esa
-  página.
-- Soporte atiende de **lunes a viernes de 9 a 17 h**.
-- Si ya tiene un ticket abierto, confirmar que quedó registrado y que se
-  procesa en el orden de ingreso.
-- No prometer un resultado (aprobado/rechazado) ni un plazo puntual desde
-  este canal: eso lo define soporte aplicando la política.
+**Política oficial** (https://ingelearn.com/politica-devolucion/, fuente
+de verdad; resumen para uso interno):
 
-**Pendiente**: cargar en este documento el resumen de los plazos y
-condiciones reales de la política (no se pudo leer la página desde este
-entorno por una restricción de red; falta que alguien la revise y pegue
-acá el contenido, o habilitar el acceso al dominio `ingelearn.com`).
+*Cursos individuales, diplomados y paquetes formativos (compra única)*
+- Reembolso posible solo si se cumplen **ambas** condiciones:
+  - No se completó más del **30 %** del contenido del curso.
+  - Dentro del plazo: **7 días corridos** desde el inicio (cursos
+    individuales) o **15 días corridos** (diplomados/paquetes).
+- Se solicita con un ticket en el portal de soporte.
+
+*Suscripciones y renovaciones automáticas* (el caso más frecuente)
+- Se renuevan automáticamente al fin de cada período, en el mismo medio
+  de pago, salvo cancelación previa.
+- Se puede **cancelar en cualquier momento** desde "Mi cuenta →
+  Suscripción", sin contactar a soporte. Al cancelar, el acceso sigue
+  activo hasta el final del período ya pagado; no hay más cobros después.
+- La fecha de la próxima renovación siempre está visible en "Mi cuenta →
+  Suscripción"; es responsabilidad del usuario controlarla.
+- **No se reembolsan cargos de renovación** si no se canceló antes de la
+  fecha de renovación, **aunque el usuario alegue olvido o falta de uso**.
+- No hay reembolsos parciales ni prorrateados por tiempo no utilizado de
+  un período ya iniciado.
+- Si el plan se paga en cuotas, estas corresponden al período contratado;
+  no usar la plataforma no suspende ni anula cuotas pendientes.
+- Las condiciones de cursos individuales/diplomados **no aplican** a las
+  suscripciones.
+
+*Cargos por error*
+- Si el débito fue **duplicado** o por un **monto distinto** al del plan
+  contratado, sí corresponde pedir revisión por el portal de soporte; ahí
+  se analiza el reintegro.
+
+*Otras condiciones importantes*
+- No hay reembolso por problemas externos al curso (instalación/uso de
+  software recomendado, fallas de equipo, incompatibilidades técnicas):
+  es responsabilidad del usuario verificar los requisitos técnicos antes
+  de empezar.
+- La devolución aplica solo al valor del curso; no se reintegran cargos
+  de plataformas de pago o entidades financieras.
+- **Solicitudes solo por el canal oficial**: no se aceptan pedidos de
+  devolución por email, redes sociales o mensajes directos, solo por el
+  portal de soporte: https://admin.ingelearn.com/soporte/
+
+**Cómo responder este caso puntual** (renovación automática "sin
+intención", no es un error de cobro): según la política, **no corresponde
+reembolso** por no haber cancelado antes de la fecha de renovación,
+aunque haya sido sin querer. Hay que comunicarlo con claridad pero de
+forma amable, y ofrecer la acción útil real: cancelar ya la suscripción
+para que no se repita el cobro, ya que el acceso del período pagado sigue
+vigente igual. Si el cliente insiste en que fue un error de cobro (monto
+duplicado o distinto al plan), ahí sí corresponde pedir la revisión por el
+portal de soporte.
 
 **Respuesta sugerida**
 
 > ¡Hola! Gracias por escribirnos y por la paciencia.
 >
-> Vemos que ya generaste el ticket de soporte por la renovación
-> automática, así que tu caso ya está registrado. El reembolso se
-> gestiona según nuestra política de devolución, que podés consultar acá:
-> https://ingelearn.com/politica-devolucion/
+> Vimos tu ticket por la renovación automática. Te cuento cómo funciona
+> según nuestra política de devolución
+> (https://ingelearn.com/politica-devolucion/): las suscripciones se
+> renuevan automáticamente salvo que se cancelen antes de la fecha de
+> renovación, y lamentablemente no podemos reembolsar un cargo de
+> renovación ya efectuado cuando no se canceló a tiempo, aunque haya sido
+> sin intención.
 >
-> El equipo de soporte atiende de lunes a viernes de 9 a 17 h y lo va a
-> revisar a la brevedad, en el orden en que ingresó, aplicando esa
-> política. En cuanto tengan una novedad te van a contactar por el mismo
-> ticket.
+> La buena noticia es que ese período ya lo tenés pagado, así que tu
+> acceso sigue activo con normalidad hasta que termine. Para que no se te
+> vuelva a cobrar, te recomiendo cancelar la suscripción ahora mismo desde
+> "Mi cuenta → Suscripción" (no hace falta esperar a soporte para eso).
 >
-> Gracias por avisar por acá también, quedamos atentos.
+> Si en tu caso el cargo fue duplicado o por un monto distinto al de tu
+> plan, avisanos por el mismo ticket y ahí sí lo revisamos como error de
+> cobro.
+>
+> Cualquier duda quedamos a disposición.
 
 ---
 
@@ -147,4 +190,10 @@ acá el contenido, o habilitar el acceso al dominio `ingelearn.com`).
   (https://ingelearn.com/politica-devolucion/). No se pudo leer el
   contenido de esa página por una restricción de red de este entorno, así
   que la respuesta cita el link en vez de plazos o condiciones inventadas.
-  Queda pendiente cargar el resumen real de la política.
+- 2026-09-21: se carga el texto completo de la política de devolución
+  (pasado directamente por el usuario, ya que el dominio sigue bloqueado
+  para este entorno) y se reformula la respuesta del caso: los cargos de
+  renovación no se reembolsan si no se canceló antes de la fecha de
+  renovación, aunque haya sido sin intención; se recomienda cancelar ya
+  la suscripción para evitar el próximo cobro, y se distingue el caso de
+  error de cobro (duplicado o monto distinto), que sí admite revisión.
