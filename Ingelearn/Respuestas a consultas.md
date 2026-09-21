@@ -86,7 +86,7 @@ hace falta repetirlo siempre)**
 
 | Fecha | Consulta | Respuesta definida |
 |-------|----------|--------------------|
-|       |          |                    |
+| 2026-09-21 | Reembolso por renovación automática no deseada (usuario ya con ticket de soporte abierto, reitera por este canal pidiendo que se agilice) | Falta definir política oficial de reembolsos: plazos, condiciones y si por este canal se puede confirmar el estado del ticket o solo se deriva a soporte (lun-vie 9 a 17 h). Respuesta usada mientras tanto: se confirma que el ticket queda registrado y que soporte lo revisa a la brevedad, sin prometer plazo ni resultado del reembolso. |
 
 ---
 
@@ -97,3 +97,7 @@ hace falta repetirlo siempre)**
   vía Membresía, planes Mensual/Trimestral/Anual/Lifetime, link de
   inscripción) y el contexto general de la academia (recorrido de PLC,
   cursos específicos) para responder preguntas de seguimiento.
+- 2026-09-21: se registra en "Consultas pendientes" el caso de reembolso
+  por renovación automática no deseada. Falta definir la política oficial
+  de reembolsos; por ahora se responde confirmando el registro del ticket
+  sin prometer plazo ni resultado.
