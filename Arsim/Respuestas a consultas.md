@@ -21,29 +21,27 @@ o suscripción?", "¿cuánto va a costar?", "¿hay versión gratis?".
 **Datos clave**
 - Arsim Studio todavía **no está abierto al público**.
 - El modelo va a ser por **suscripción**, no pago único.
-- Precio estimado: **USD 9.99 por mes** o **USD 99.99 por año**
-  (aprox. 10 dólares al mes / 100 al año).
+- Precio de referencia interno (NO compartir todavía en las respuestas):
+  USD 9.99 por mes / USD 99.99 por año. Por ahora no se menciona ningún
+  número al responder consultas; solo se confirma que es por suscripción.
 - Más información en https://studio.arsim.app
 
 **Respuesta sugerida (corta)**
 
 > ¡Hola! Gracias por la consulta. Por ahora Arsim Studio no está abierto al
-> público. Cuando se lance va a funcionar por suscripción: el precio ronda los
-> USD 9.99 por mes o USD 99.99 por año. Para más información podés entrar a
-> https://studio.arsim.app
+> público. Cuando se lance va a funcionar por suscripción, todavía no
+> tenemos el precio definitivo para compartir. Para más información podés
+> entrar a https://studio.arsim.app
 
 **Respuesta sugerida (completa)**
 
 > ¡Buenas! Gracias por escribirnos.
 >
 > Arsim Studio todavía no está abierto al público, así que por el momento no
-> se puede contratar. El plan va a ser por suscripción (no pago único), con dos
-> opciones:
+> se puede contratar. El plan va a ser por suscripción (no pago único), con
+> opción mensual y anual. Todavía no tenemos el precio definitivo para
+> compartir, lo vamos a anunciar más adelante.
 >
-> - Mensual: USD 9.99 por mes
-> - Anual: USD 99.99 por año (equivale a dos meses gratis)
->
-> Estos valores son los previstos para el lanzamiento y pueden ajustarse.
 > Toda la información actualizada está en https://studio.arsim.app
 
 ---
@@ -95,3 +93,7 @@ definir una respuesta oficial.
 
 - 2026-09-21: creación del documento. Respuesta de plan/precio definida:
   no abierto al público, suscripción USD 9.99/mes o USD 99.99/año.
+- 2026-09-21: se retira el precio de las respuestas hasta nuevo aviso. Las
+  respuestas ahora solo confirman que es por suscripción, sin dar números.
+  El precio de referencia queda anotado como dato interno en la sección 1,
+  marcado como "no compartir todavía".
