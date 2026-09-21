@@ -64,7 +64,42 @@ o suscripción?", "¿cuánto va a costar?", "¿hay versión gratis?".
 
 ---
 
-## 3. Consulta no cubierta por esta lista
+## 3. Baja de membresía de cursos
+
+**Cuándo usarla**: el usuario pide cancelar o dar de baja su membresía o
+suscripción a los cursos, generalmente por no poder seguir pagando (motivos
+externos, fin del período contratado, etc.).
+
+**Datos clave**
+- Sí puede dar de baja la membresía cuando quiera.
+- Al darse de baja **no pierde el estado/progreso de los cursos**: queda
+  guardado.
+- Cuando vuelva a poder pagar, se le **vuelve a abrir el acceso** y puede
+  **retomar el curso** donde lo dejó.
+- Para gestionar la baja, revisar el estado actual de la membresía o
+  confirmar la renovación, **se necesita el email** con el que está
+  registrado en la plataforma.
+
+**Respuesta sugerida**
+
+> ¡Hola! Gracias por avisarnos y no te preocupes, entendemos la situación.
+>
+> Podés dar de baja tu membresía sin problema. Al hacerlo no perdés el
+> estado de tus cursos: tu progreso queda guardado tal cual está. El día que
+> puedas volver a pagar, se te habilita el acceso de nuevo y podés retomar
+> el curso justo donde lo dejaste.
+>
+> Para gestionar la baja (o para revisar el estado de tu membresía y la
+> renovación) necesitamos el email con el que estás registrado/a en la
+> plataforma. ¿Nos lo podés pasar?
+
+**Seguimiento**: una vez que responda con el email, buscar su cuenta y
+confirmar el estado de la membresía y de la baja antes de cerrar la
+consulta.
+
+---
+
+## 4. Consulta no cubierta por esta lista
 
 **Cuándo usarla**: cualquier pregunta que no encaje en las anteriores
 (funciones, compatibilidad, requisitos, soporte, etc.).
@@ -97,3 +132,6 @@ definir una respuesta oficial.
   respuestas ahora solo confirman que es por suscripción, sin dar números.
   El precio de referencia queda anotado como dato interno en la sección 1,
   marcado como "no compartir todavía".
+- 2026-09-21: se agrega la sección "Baja de membresía de cursos": se puede
+  cancelar sin perder el progreso, el acceso se reabre al retomar el pago,
+  y para gestionar la baja o ver el estado se pide el email del usuario.
