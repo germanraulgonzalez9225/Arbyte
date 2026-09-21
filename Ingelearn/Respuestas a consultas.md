@@ -166,11 +166,52 @@ portal de soporte.
 
 ---
 
+## 3. Recorrido / "curso completo" de PLC
+
+**Cuándo usarla**: el cliente pide "el curso completo de PLC", "el
+paquete con los 3 cursos de PLC" o algo similar. Hasta ahora, esto se
+resuelve con el recorrido de PLC que ya está incluido en la Membresía
+(no hay, que sepamos, un paquete separado de compra única solo con esos
+cursos; si el cliente insiste en que vio un paquete puntual anunciado en
+otro lado, escalar para confirmar antes de prometer algo distinto de la
+Membresía).
+
+**Datos clave**
+- El recorrido de PLC de la Membresía incluye: "Introducción a la
+  programación de PLC (2026)" + cursos específicos (Allen‑Bradley en
+  vivo, SCADA, redes), más el resto de los +30 cursos de la plataforma.
+- Se accede por Membresía, mismos planes que el resto de los cursos:
+  - Mensual: USD 65
+  - Trimestral: USD 190 (equivale a USD 63,3 por mes)
+  - Anual: USD 297 (equivale a USD 24,75 por mes)
+  - Lifetime: USD 2000 (pago único, acceso de por vida)
+- Link de inscripción: https://ingelearn.com/planes/
+
+**Respuesta sugerida**
+
+> ¡Hola! Gracias por el interés.
+>
+> Dentro de la Membresía tenés acceso a todo el recorrido de PLC:
+> arrancando por "Introducción a la programación de PLC (2026)" y
+> sumando los cursos específicos como Allen‑Bradley en vivo, SCADA y
+> redes, todo orientado a automatización industrial, más el resto de los
+> +30 cursos de la plataforma.
+>
+> Los planes son:
+> – Mensual: USD 65
+> – Trimestral: USD 190 (equivale a 63,3 por mes)
+> – Anual: USD 297 (equivale a 24,75 por mes)
+> – Lifetime: USD 2000 (pago único, acceso de por vida)
+>
+> Te paso el link directo de inscripción: https://ingelearn.com/planes/
+
+---
+
 ## Consultas pendientes (a definir)
 
 | Fecha | Consulta | Respuesta definida |
 |-------|----------|--------------------|
-| 2026-09-21 | Cliente pide "el curso completo virtual que incluye los 3 cursos de PLC" | No está claro si es un paquete/diplomado de compra única (como los que menciona la política de devolución) o el recorrido de PLC dentro de la Membresía. Falta: nombre exacto del producto, qué 3 cursos de PLC incluye, si se vende suelto o solo por Membresía, precio y link de venta. Mientras tanto se responde describiendo el recorrido de PLC de la Membresía y pidiendo al cliente dónde vio el paquete anunciado. |
+|       |          |                    |
 
 ---
 
@@ -197,9 +238,8 @@ portal de soporte.
   renovación, aunque haya sido sin intención; se recomienda cancelar ya
   la suscripción para evitar el próximo cobro, y se distingue el caso de
   error de cobro (duplicado o monto distinto), que sí admite revisión.
-- 2026-09-21: se registra en "Consultas pendientes" el caso de un cliente
-  que pide "el curso completo virtual con los 3 cursos de PLC". Falta
-  confirmar si es un paquete/diplomado de compra única o el recorrido de
-  PLC de la Membresía; mientras tanto se responde con lo que sí está
-  confirmado (el recorrido de PLC de la Membresía) y se le pregunta al
-  cliente dónde vio el paquete anunciado.
+- 2026-09-21: se agrega la sección 3 "Recorrido / 'curso completo' de
+  PLC": se resuelve con el recorrido de PLC de la Membresía (no un
+  paquete de compra única aparte), con la lista de planes y el link de
+  inscripción. Reemplaza el registro anterior en "Consultas pendientes"
+  sobre este mismo caso.
