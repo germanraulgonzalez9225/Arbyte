@@ -145,7 +145,7 @@ definir una respuesta oficial.
 
 | Fecha | Consulta | Respuesta definida |
 |-------|----------|--------------------|
-|       |          |                    |
+| 2026-09-21 | Reembolso por renovación automática no deseada (usuario ya con ticket de soporte abierto, reitera por este canal pidiendo que se agilice) | Falta definir política oficial de reembolsos: plazos, condiciones y si por este canal se puede confirmar el estado del ticket o solo se deriva a soporte (lun-vie 9 a 17 h). Respuesta usada mientras tanto: se confirma que el ticket queda registrado y que soporte lo revisa a la brevedad, sin prometer plazo ni resultado del reembolso. |
 
 ---
 
@@ -166,3 +166,7 @@ definir una respuesta oficial.
 - 2026-09-21: en la respuesta corta de la sección 1 (plan, precio y forma
   de pago), se reemplaza el link https://studio.arsim.app por
   https://arsim.app/registro-arsim/
+- 2026-09-21: se registra en "Consultas pendientes" el caso de reembolso
+  por renovación automática no deseada. Falta definir la política oficial
+  de reembolsos; por ahora se responde confirmando el registro del ticket
+  sin prometer plazo ni resultado.
