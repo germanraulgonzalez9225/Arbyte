@@ -82,11 +82,52 @@ hace falta repetirlo siempre)**
 
 ---
 
+## 2. Reembolso / renovación automática no deseada
+
+**Cuándo usarla**: el cliente pide un reembolso o se queja de una
+renovación automática que no quería, en particular si ya abrió un ticket
+de soporte y escribe por este canal para que se agilice.
+
+**Datos clave**
+- La política oficial de devolución está publicada en
+  https://ingelearn.com/politica-devolucion/. Ese link es la fuente de
+  verdad sobre plazos, condiciones y excepciones: **no inventar acá
+  números de días ni porcentajes** que no estén confirmados con esa
+  página.
+- Soporte atiende de **lunes a viernes de 9 a 17 h**.
+- Si ya tiene un ticket abierto, confirmar que quedó registrado y que se
+  procesa en el orden de ingreso.
+- No prometer un resultado (aprobado/rechazado) ni un plazo puntual desde
+  este canal: eso lo define soporte aplicando la política.
+
+**Pendiente**: cargar en este documento el resumen de los plazos y
+condiciones reales de la política (no se pudo leer la página desde este
+entorno por una restricción de red; falta que alguien la revise y pegue
+acá el contenido, o habilitar el acceso al dominio `ingelearn.com`).
+
+**Respuesta sugerida**
+
+> ¡Hola! Gracias por escribirnos y por la paciencia.
+>
+> Vemos que ya generaste el ticket de soporte por la renovación
+> automática, así que tu caso ya está registrado. El reembolso se
+> gestiona según nuestra política de devolución, que podés consultar acá:
+> https://ingelearn.com/politica-devolucion/
+>
+> El equipo de soporte atiende de lunes a viernes de 9 a 17 h y lo va a
+> revisar a la brevedad, en el orden en que ingresó, aplicando esa
+> política. En cuanto tengan una novedad te van a contactar por el mismo
+> ticket.
+>
+> Gracias por avisar por acá también, quedamos atentos.
+
+---
+
 ## Consultas pendientes (a definir)
 
 | Fecha | Consulta | Respuesta definida |
 |-------|----------|--------------------|
-| 2026-09-21 | Reembolso por renovación automática no deseada (usuario ya con ticket de soporte abierto, reitera por este canal pidiendo que se agilice) | Falta definir política oficial de reembolsos: plazos, condiciones y si por este canal se puede confirmar el estado del ticket o solo se deriva a soporte (lun-vie 9 a 17 h). Respuesta usada mientras tanto: se confirma que el ticket queda registrado y que soporte lo revisa a la brevedad, sin prometer plazo ni resultado del reembolso. |
+|       |          |                    |
 
 ---
 
@@ -101,3 +142,9 @@ hace falta repetirlo siempre)**
   por renovación automática no deseada. Falta definir la política oficial
   de reembolsos; por ahora se responde confirmando el registro del ticket
   sin prometer plazo ni resultado.
+- 2026-09-21: se agrega la sección 2 "Reembolso / renovación automática no
+  deseada" con el link oficial a la política de devolución
+  (https://ingelearn.com/politica-devolucion/). No se pudo leer el
+  contenido de esa página por una restricción de red de este entorno, así
+  que la respuesta cita el link en vez de plazos o condiciones inventadas.
+  Queda pendiente cargar el resumen real de la política.
