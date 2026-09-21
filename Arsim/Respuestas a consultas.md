@@ -31,7 +31,7 @@ o suscripción?", "¿cuánto va a costar?", "¿hay versión gratis?".
 > ¡Hola! Gracias por la consulta. Por ahora Arsim Studio no está abierto al
 > público. Cuando se lance va a funcionar por suscripción, todavía no
 > tenemos el precio definitivo para compartir. Para más información podés
-> entrar a https://studio.arsim.app
+> entrar a https://arsim.app/registro-arsim/
 
 **Respuesta sugerida (completa)**
 
@@ -163,3 +163,6 @@ definir una respuesta oficial.
 - 2026-09-21: se agrega la sección "Más información / lista de espera":
   hay lista de espera disponible, el precio todavía no está definido y el
   ingreso va a ser por membresía. Se renumera "Consulta no cubierta" a 5.
+- 2026-09-21: en la respuesta corta de la sección 1 (plan, precio y forma
+  de pago), se reemplaza el link https://studio.arsim.app por
+  https://arsim.app/registro-arsim/
