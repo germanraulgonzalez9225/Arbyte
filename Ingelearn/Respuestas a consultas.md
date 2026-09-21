@@ -239,6 +239,35 @@ Membresía).
 
 ---
 
+## 4. No puede pasar de la página para unirse al grupo de WhatsApp
+
+**Cuándo usarla**: el cliente cuenta que la página no lo deja avanzar en
+algún paso y por eso no logra unirse al grupo de WhatsApp de la
+Membresía/curso.
+
+**Datos clave**
+- Link directo del grupo de WhatsApp (para no depender de que funcione
+  ese paso de la página):
+  https://chat.whatsapp.com/Dmmpt0BDLdrGm9U03tq912
+- No se sabe la causa del problema técnico en la página; pedir detalle
+  (pantalla/botón donde se traba, o una captura) para poder reportarlo si
+  es un problema general y no algo puntual de esa cuenta.
+
+**Respuesta sugerida**
+
+> ¡Hola! Gracias por avisarnos y disculpá el inconveniente.
+>
+> Te paso el link directo del grupo de WhatsApp para que te unas sin
+> depender de ese paso en la página:
+> https://chat.whatsapp.com/Dmmpt0BDLdrGm9U03tq912
+>
+> Para poder revisar por qué no te dejaba avanzar en la página, ¿nos
+> contás en qué pantalla o botón se te trababa, o nos mandás una
+> captura? Así identificamos si es algo puntual de tu cuenta o un
+> problema general que tenemos que solucionar.
+
+---
+
 ## Consultas pendientes (a definir)
 
 | Fecha | Consulta | Respuesta definida |
@@ -281,3 +310,8 @@ Membresía).
   desde este canal, se traslada como caso puntual al equipo. Se deja
   también una nota de feedback de producto: evaluar un email de
   recordatorio antes de cada renovación automática.
+- 2026-09-21: se agrega la sección 4 "No puede pasar de la página para
+  unirse al grupo de WhatsApp", con el link directo del grupo para
+  compartir sin depender de ese paso de la página, y la práctica de
+  pedir detalle del problema técnico (pantalla/captura) para poder
+  escalarlo si es un problema general.
