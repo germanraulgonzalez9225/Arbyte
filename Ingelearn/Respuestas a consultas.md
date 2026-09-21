@@ -170,7 +170,7 @@ portal de soporte.
 
 | Fecha | Consulta | Respuesta definida |
 |-------|----------|--------------------|
-|       |          |                    |
+| 2026-09-21 | Cliente pide "el curso completo virtual que incluye los 3 cursos de PLC" | No está claro si es un paquete/diplomado de compra única (como los que menciona la política de devolución) o el recorrido de PLC dentro de la Membresía. Falta: nombre exacto del producto, qué 3 cursos de PLC incluye, si se vende suelto o solo por Membresía, precio y link de venta. Mientras tanto se responde describiendo el recorrido de PLC de la Membresía y pidiendo al cliente dónde vio el paquete anunciado. |
 
 ---
 
@@ -197,3 +197,9 @@ portal de soporte.
   renovación, aunque haya sido sin intención; se recomienda cancelar ya
   la suscripción para evitar el próximo cobro, y se distingue el caso de
   error de cobro (duplicado o monto distinto), que sí admite revisión.
+- 2026-09-21: se registra en "Consultas pendientes" el caso de un cliente
+  que pide "el curso completo virtual con los 3 cursos de PLC". Falta
+  confirmar si es un paquete/diplomado de compra única o el recorrido de
+  PLC de la Membresía; mientras tanto se responde con lo que sí está
+  confirmado (el recorrido de PLC de la Membresía) y se le pregunta al
+  cliente dónde vio el paquete anunciado.
